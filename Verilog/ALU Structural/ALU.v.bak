@@ -1,0 +1,8 @@
+module ALU(A,B,S,EQUAL,GT,LT,Zero,CarryOut,Overflow,F);//GT: Greater Than, LT: Less Than 
+input [7:0]A,B;
+input [3:0]S;
+output EQUAL,GT,LT,Zero,CarryOut,Overflow;
+output [7:0] F;
+
+end module 
+module Arithmetic_Unit(
