@@ -1,2 +1,2 @@
-Me and my team work on this project and another 2 projects also, click the link for more details.
+Me and my team worked on this project in additional to 2 more projects, click the link for more details.
 https://youtu.be/Y5dpjrMarTs
